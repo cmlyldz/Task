@@ -1,0 +1,15 @@
+C:\Users\cmlyl\source\repos\CSharp\Task\bin\Release\Task.exe.config
+C:\Users\cmlyl\source\repos\CSharp\Task\bin\Release\Task.exe
+C:\Users\cmlyl\source\repos\CSharp\Task\bin\Release\Task.pdb
+C:\Users\cmlyl\source\repos\CSharp\Task\obj\Release\Task.DataGrid.resources
+C:\Users\cmlyl\source\repos\CSharp\Task\obj\Release\Task.Properties.Resources.resources
+C:\Users\cmlyl\source\repos\CSharp\Task\obj\Release\Task.csproj.GenerateResource.cache
+C:\Users\cmlyl\source\repos\CSharp\Task\obj\Release\Task.csproj.CoreCompileInputs.cache
+C:\Users\cmlyl\source\repos\CSharp\Task\obj\Release\Task.exe
+C:\Users\cmlyl\source\repos\CSharp\Task\obj\Release\Task.pdb
+C:\Users\cmlyl\source\repos\CSharp\Task\bin\Release\Task.exe.manifest
+C:\Users\cmlyl\source\repos\CSharp\Task\bin\Release\Task.application
+C:\Users\cmlyl\source\repos\CSharp\Task\obj\Release\Task.csprojAssemblyReference.cache
+C:\Users\cmlyl\source\repos\CSharp\Task\obj\Release\Task.TrustInfo.xml
+C:\Users\cmlyl\source\repos\CSharp\Task\obj\Release\Task.exe.manifest
+C:\Users\cmlyl\source\repos\CSharp\Task\obj\Release\Task.application
